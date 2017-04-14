@@ -11,3 +11,7 @@ h1{
     transform: rotate(270deg);
     margin: 25px;
 }
+ul {
+	color: purple;
+	font-size: 38px;
+}
