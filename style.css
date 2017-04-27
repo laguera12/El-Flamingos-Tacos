@@ -3,17 +3,12 @@ h1{
 	font-size: 60px;
   font-family: 'Dancing Script', cursive;
 }
-#thisone{
-		height:75%;
-    width: auto;
-    margin: 25px;
-}
 ul {
 	color: green;
 	font-size: 38px;
 }
 #thisone{
-		height:75%;
+		height:50%;
     width: auto;
     margin: 25px;
 }
