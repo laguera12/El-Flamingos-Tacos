@@ -17,3 +17,7 @@ ul {
 	font-size: 48px;
 	font-family: 'Julius Sans One', sans-serif;
 }
+.item{
+	width: 25%;
+	height: auto;
+}
